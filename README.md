@@ -4,13 +4,13 @@
 
 The package simply outlines a straightforward and functional method to create a data table, applicable for duplicating in any project requiring such functionality.
 
-- INSTALL PACKAGES
+- Install
 
 ```bash
     npm i
 ```
 
-- RUN PROJECT
+- Run
 
 ```bash
     npm run dev
